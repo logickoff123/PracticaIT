@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/PracticaIT/static/css/main.4d18aefe.css",
+    "main.js": "/PracticaIT/static/js/main.dba11ad1.js",
+    "static/media/naushki.svg": "/PracticaIT/static/media/naushki.49b157004cdfdd18683daf038a0fb264.svg",
+    "static/media/headerpict.svg": "/PracticaIT/static/media/headerpict.950380be74ea7b7a9dc5b481a44e06a1.svg",
+    "static/media/zoo.svg": "/PracticaIT/static/media/zoo.3d75c43a4a75754ab156058045a5e5f9.svg",
+    "static/media/shirt.svg": "/PracticaIT/static/media/shirt.47002558daf1ce8c1ee8fff0a0117f25.svg",
+    "static/media/toy.svg": "/PracticaIT/static/media/toy.4718da9bc3cec8a195e33d9237a3e96a.svg",
+    "static/media/beaitifu;.svg": "/PracticaIT/static/media/beaitifu;.15e7d77f6a85b842274d398bf939c26d.svg",
+    "static/media/computer.svg": "/PracticaIT/static/media/computer.8eac588cc0ccca3b2d563d6f58031c05.svg",
+    "static/media/imak.svg": "/PracticaIT/static/media/imak.0e11d3df7b250b6fabcefe298af97bde.svg",
+    "static/media/byttrxn.svg": "/PracticaIT/static/media/byttrxn.eb9a099af819c6b41270200e41b33f66.svg",
+    "static/media/logo.svg": "/PracticaIT/static/media/logo.9ad2762c5ec99ab8eba08828f1e0075c.svg",
+    "static/media/logo2.svg": "/PracticaIT/static/media/logo2.552722636e4d17b7ad5511767a04c080.svg",
+    "static/media/picture.svg": "/PracticaIT/static/media/picture.078ef4f6912bc64e17f6cfa6020612c5.svg",
+    "static/media/kolonka.svg": "/PracticaIT/static/media/kolonka.2045026dd18ae1e7749af6099471863c.svg",
+    "static/media/book2.png": "/PracticaIT/static/media/book2.3395eb8a9446301eb209.png",
+    "static/media/camera.svg": "/PracticaIT/static/media/camera.e56fbba4346db7cc064abe2102634659.svg",
+    "static/media/pyl.svg": "/PracticaIT/static/media/pyl.6191cc2c7637c2627f62ac44afc92084.svg",
+    "static/media/bag.svg": "/PracticaIT/static/media/bag.05b664f164ec5c937d550d1db2207e13.svg",
+    "static/media/Basket.svg": "/PracticaIT/static/media/Basket.9f7a460d8ed55cb0e9904400dc7eab4a.svg",
+    "static/media/User.svg": "/PracticaIT/static/media/User.67af7a8cfe535c3d037d2982c4eb8725.svg",
+    "index.html": "/PracticaIT/index.html",
+    "static/media/hard.svg": "/PracticaIT/static/media/hard.836bd134d406220b27b6cc896c561237.svg",
+    "main.4d18aefe.css.map": "/PracticaIT/static/css/main.4d18aefe.css.map",
+    "main.dba11ad1.js.map": "/PracticaIT/static/js/main.dba11ad1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d18aefe.css",
+    "static/js/main.dba11ad1.js"
+  ]
+}
